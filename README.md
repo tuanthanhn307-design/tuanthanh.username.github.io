@@ -741,7 +741,7 @@
         <div class="avatar-box">
           <img
             id="avatarImg"
-            src="images/anh-dai-dien.jpg"
+            src="https://raw.githubusercontent.com/tuanthanhn307-design/tuanthanh.username.github.io/refs/heads/main/86b2370c-4f9a-4559-80c5-199b59b1ca4d.jfif"
             alt="Ảnh đại diện Nguyễn Tuấn Thanh"
           />
           <div class="crosshair"></div>
