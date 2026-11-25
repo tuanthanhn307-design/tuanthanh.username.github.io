@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="vi" data-theme="dark">
 <head>
@@ -924,6 +923,17 @@
         <h2 class="section-title">Khoảnh khắc Nhiếp ảnh &amp; STEM</h2>
       </div>
       <div class="gallery-grid">
+        <div class="photo-card">
+          <img
+            src="https://raw.githubusercontent.com/tuanthanhn307-design/tuanthanh.username.github.io/refs/heads/main/86b2370c-4f9a-4559-80c5-199b59b1ca4d.jfif"
+            alt="Khoảnh khắc của Nguyễn Tuấn Thanh"
+            style="object-position: center 22%;"
+          />
+          <div class="photo-overlay">
+            <span class="photo-meta mono">11T2 • KHOẢNH KHẮC</span>
+            <div class="photo-caption">Khoảnh khắc kỷ niệm</div>
+          </div>
+        </div>
         <div class="photo-card">
           <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80" alt="Canon 5D3 và Lens 50mm f/1.8 II" />
           <div class="photo-overlay">
